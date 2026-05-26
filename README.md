@@ -1,1 +1,1 @@
-# Terraform_variable_code
+# Terraform for_each + map
